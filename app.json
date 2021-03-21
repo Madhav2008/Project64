@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "offline-dictionary-app",
+    "slug": "snack-efcacd4c-404c-4eef-8bf0-79fdd8604383",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is an offline dictionary app where you can search for a word and you will find the meaning of the word. But now, only few words are available."
+  }
+}
